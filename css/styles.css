@@ -1,0 +1,242 @@
+@import url('https://fonts.googleapis.com/css2?family=Hind+Madurai:wght@500&display=swap');
+
+*{
+	font-family: 'Hind Madurai', sans-serif;
+	font-weight: 100;
+}
+
+.nome{
+	font-family: 'Faster One', cursive;
+	font-size: 70px;
+	text-align: center;
+	color: #159809;
+}
+
+.sobre{
+	margin: 30px 30px 0 30px;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+}
+
+.inicial{
+	width: 30%;
+	border: 1px solid;
+}
+
+.texto{
+	margin: 30px;
+	font-size: 20px;
+}
+
+.sobre2{
+	margin: 30px 30px 0 30px;
+	display: flex;
+	justify-content: center;
+}
+
+.aviao{
+	width: 50%;
+}
+
+.texto2{
+	margin: 30px;
+	font-size: 20px;
+}
+
+.cidade{
+	display: flex;
+	justify-content: center;
+	margin-top: 20px;
+}
+
+.cidadeFt{
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	justify-content: space-around;
+}
+
+.fotos{
+	width: 30%;
+	border: 2px solid;
+}
+
+.paisagem{
+	width: 40%;
+	border: 2px solid;
+}
+
+.texto3{
+	margin: 30px;
+	font-size: 20px;
+}
+
+.btn2{
+	color: #159809;
+	font-size: 20px;
+	background-color: white;
+	border: #159809 solid 1px;
+	text-transform: uppercase;
+	padding: 5px 50px 5px 50px;
+}
+
+.btn2:hover{
+	background-color: #159809;
+}
+
+.dicas{
+	display: flex;
+	justify-content: center;
+}
+
+h4,h3{
+	color: rgb(119, 116, 116);
+	margin: 10px;
+}
+
+a{
+	font-size: 20px;
+}
+
+h4{
+	font-size: 30px;
+}
+h3{
+	font-size: 25px;
+}
+
+.list-group{
+	margin: 30px 100px 30px 100px;
+}
+
+.hoteis{
+	display: flex;
+	align-items: center;
+	flex-direction: column;
+	margin-top: 30px;
+}
+
+.hotel{
+	width: 40%;
+	margin: 10px 0 10px 0;
+	border: 1px solid;
+}
+
+.checked {
+	color: orange;
+}
+
+.fa-star{
+	display: flex;
+	flex-direction: row;
+}
+
+.linkHt{
+	pointer-events: none;
+}
+
+.hoteis a{
+	color: #159809;
+	text-decoration: none;
+}
+
+.list-group-item{
+	pointer-events: painted;
+}
+
+.checked {
+	color: orange;
+}
+
+.star{
+	display: flex;
+	flex-direction: row;
+	margin-bottom: 20px;
+}
+
+.none{
+	pointer-events: none;
+}
+
+.navbar-brand{
+	border: none;
+}
+
+.imagem{
+	display: flex;
+	justify-content: center;
+}
+
+.saoPaulo{
+	width: 40vw;
+	height: 50vh;
+	border: 1px solid;
+}
+
+.cidade h4{
+	margin: 0;
+}
+
+.cidade h3{
+	font-size: 20px;
+}
+
+.carousel{
+	width: 40%;
+	margin-left: 32%;
+}
+
+.star2{
+	justify-content: center;
+}
+
+.loc{
+	display: flex;
+	justify-content: center;
+	margin: 0;
+	padding: 0;
+}
+
+.mapaTxt{
+	display: flex;
+	justify-content: center;
+}
+
+iframe{
+	margin-left: 33.5%;
+}
+
+.integrantes{
+	display: flex;
+	justify-content: row;
+	width: 80%;
+	margin-left: 9%;
+}
+
+.card{
+	display: flex;
+	justify-content: space-between;
+}
+
+span{
+	color: rgb(119, 116, 116);
+	font-family: 'Hind Madurai', sans-serif;
+	font-size: 25px;
+}
+
+.estrelas{
+	display: flex;
+	justify-content: center;
+	margin-bottom: 10px;
+}
+
+.textoHt{
+	width: 70%;
+	margin-left: 15%;
+}
+
+.card-img-top{
+	width: 250px;
+	height: 200px;
+}
